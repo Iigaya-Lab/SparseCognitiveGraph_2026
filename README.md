@@ -1,0 +1,1 @@
+Code for Gungi, A., Sepulveda Delgado, P., Aitsahalia, I., Blanco-Pozo, M., & Iigaya, K. (2026). Building Goal-Directed Cognitive Graphs. bioRxiv, 2026-02. (https://doi.org/10.64898/2026.02.18.706628 )
